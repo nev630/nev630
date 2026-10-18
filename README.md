@@ -12,10 +12,10 @@
 ---
 
 ### 📌 About Me
-- 🔭 **Current Focus**: 클랜 관리 자동화 도구(`cr-clan-manager`) 및 Python 기반 문제 해결/데이터 처리
+- 🔭 **Current Focus**: None
 - 🌱 **Learning**: Python 고급 패턴, 모던 웹 프레임워크(React / Node.js)
 - 💬 **Interests**: 알고리즘 최적화, 자동화 스크립트, 클린 코드
-- 📫 **Contact**: `your-email@example.com`
+- 📫 **Contact**: `marble593812345@gmail.com`
 
 ---
 
@@ -39,10 +39,3 @@
 | **[cr-clan-manager](https://github.com/nev630/cr-clan-manager)** | `JavaScript` | 클랜 활동 추적 및 통계 관리 웹 애플리케이션 | [Repo](https://github.com/nev630/cr-clan-manager) |
 | **[Study-Python](https://github.com/nev630/Study-Python)** | `Python` | 파이썬 기본기 학습 및 알고리즘 풀이 저장소 | [Repo](https://github.com/nev630/Study-Python) |
 
----
-
-### 🔗 Connect with Me
-
-<p align="center">
-  <a href="mailto:marble593812345@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
